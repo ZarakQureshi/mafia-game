@@ -19,4 +19,4 @@ io.on("connection", (socket) => {
 });
 
 /*TESTING CONNECTION TO GITHUB, did it work? */
-/* COMMENT IT */
+/* COMMENT IT PLS WORK */
