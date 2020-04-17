@@ -18,4 +18,4 @@ io.on("connection", (socket) => {
   console.log("made a socket connection", socket.id);
 });
 
-/*TESTING CONNECTION TO GITHUB */
+/*TESTING CONNECTION TO GITHUB, did it work? */
