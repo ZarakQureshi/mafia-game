@@ -35,9 +35,6 @@ server.listen(4000);
 // Socket setup
 var io = socket(server);
 
-io.on("connection", (socket) => {
+io.on('connection', (socket) => {
   console.log("made a socket connection", socket.id);
 });
-
-/*TESTING CONNECTION TO GITHUB, did it work? */
-/* COMMENT IT PLS WORK */
